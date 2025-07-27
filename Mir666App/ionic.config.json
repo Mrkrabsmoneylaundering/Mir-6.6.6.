@@ -1,0 +1,7 @@
+{
+  "name": "Mir666App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
